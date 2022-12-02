@@ -1,0 +1,140 @@
+h1, h2, h3, h4, h5, a, p, img, header, div, body {margin: 0;  }
+
+body{
+
+
+	overflow-y: hidden;
+	overflow-x: hidden;
+	
+
+}
+
+header {
+	width: 100%;
+	height: 30px;
+	background-color: #f0f2f5;
+	
+}
+
+img{
+
+	margin-bottom: 13px;
+	right: 0%;
+	position: relative;
+	width: 25%;
+	background-color: #f0f2f5;
+}
+.logo{
+
+  display: flex;
+  justify-content: center;
+  background-color: #f0f2f5;
+}
+.form{
+
+	background-color: #f0f2f5;
+	padding-bottom: 60px;
+
+}
+input[type=submit]{
+
+
+	height: 55px;
+	width: 100%;
+	background-color: #1877f2;
+	display: flex;
+	justify-content: center;
+	color: #FFEBE8;
+	font-size: 23px;
+	margin-top: 5%;
+	cursor: pointer;
+	
+	  
+}
+
+.form h3 {
+	color: #333333;
+    font-family: tahoma;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0  20px;
+    padding: 20px 0 12px;
+}
+
+input{
+
+	height: 30px;
+	border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 340px;
+	border: 1px solid #dddfe2;
+	font-family: Helvetica, Arial;
+	color: #1d2129;
+	margin: 0.3%;
+}
+p a{
+
+	position: relative;
+	right: 13%;
+	color: #1877f2;
+	
+}
+
+p{
+
+	text-align: center;
+	margin: 20px;
+}
+.confirma{
+
+	
+	border: 1px solid red;
+	color: tomato;
+	height: 30px;
+
+}
+button{
+
+	position: relative;
+	left: 24%;
+	background-color: #42b72a;
+	height: 55px;
+	width: 50%;
+	color: #ffffff;
+	font-size: 20px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border-radius: 10px;
+	border: 1px solid;
+	cursor: pointer;
+}
+
+
+.login-form {
+
+	background-color: white;
+	width: 410px;
+	margin: 0 auto;
+	padding: 23px 0 0 0;
+	border-radius: 10px;
+	border: 1.5px solid rgb(199, 196, 196);
+	box-shadow: 1px 1px 10px rgb(177, 174, 174);
+	display: flex;
+	justify-content: center;
+
+}
+h4{
+
+
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 26px;
+    font-family: arial;
+	color: #363636;
+}
+html{
+
+	
+}
